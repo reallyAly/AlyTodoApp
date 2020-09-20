@@ -17,7 +17,7 @@ Aly Todo App it's a simple application builded with php laravel framework for st
 
 ![Image of homepage](https://i.ibb.co/qypnRCg/Create-Todo.png)
 
-## Todo list (Create Todo)
+## Todo list (List Todo information)
 
 ![Image of homepage](https://i.ibb.co/pngcXVJ/Todo.png)
 
