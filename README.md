@@ -3,4 +3,4 @@ Aly Todo App it's a simple application builded with php laravel framework for st
 
 ## Homepage
 
-![Image of homepage](https://drive.google.com/file/d/1B5SXe_kCV7uUJgBAvnsdB8ztJ35dtzrp/view?usp=sharing)
+![Image of homepage](https://drive.google.com/file/d/1B5SXe_kCV7uUJgBAvnsdB8ztJ35dtzrp/view)
